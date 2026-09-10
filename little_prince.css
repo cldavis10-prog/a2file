@@ -1,0 +1,54 @@
+/* Entire page */
+body {
+    margin: 0;
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* Main content container */
+.page {
+    width: 680px;
+    margin: 20px auto;
+    border-top: 5px solid #eeeeee;
+    padding-top: 10px;
+}
+
+/* Book cover image */
+.page img {
+    display: block;
+    width: 655px;
+    height: auto;
+    margin: 0 auto;
+}
+
+/* Paragraph text */
+.page p {
+    font-size: 23px;
+    font-weight: bold;
+    line-height: 1.05;
+    margin: 5px 15px;
+}
+
+/* Underlined text */
+.page u {
+    text-decoration: underline;
+}
+
+/* Orange highlighted text */
+.highlight {
+    background-color: #f6a94a;
+}
+
+/* Red quotation text */
+.red {
+    color: red;
+}
+
+/* Back to index link */
+.back-link {
+    display: block;
+    margin: 25px 15px;
+    font-size: 18px;
+    color: blue;
+    text-decoration: underline;
+}
